@@ -1,0 +1,15 @@
+// Your custom variables
+body {
+    $font-family-base: 'Nunito', sans-serif, 'Roboto';
+
+    $display-font-sizes: (
+    1: 5rem,
+    2: 4.5rem,
+    3: 4rem,
+    4: 3.5rem,
+    5: 3rem,
+    6: 2.5rem
+    );
+
+    $display-font-weight: 300;
+}
